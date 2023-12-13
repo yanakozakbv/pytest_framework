@@ -1,4 +1,4 @@
-from pytest_framework.db.sqlite_pack._base_db_connector import BaseDbConnection
+from db.sqlite_pack._base_db_connector import BaseDbConnection
 
 
 class CosmeticsRepo:

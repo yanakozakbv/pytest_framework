@@ -1,6 +1,6 @@
 import pytest
-from pytest_framework.constants import ROOT_PATH
-from pytest_framework.db.sqlite_pack.cosmetics_repo import CosmeticsRepo
+from constants import ROOT_PATH
+from db.sqlite_pack.cosmetics_repo import CosmeticsRepo
 
 
 @pytest.fixture
