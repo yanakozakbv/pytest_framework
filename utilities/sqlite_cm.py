@@ -1,5 +1,5 @@
 import sqlite3
-from deco import singleton
+from utilities.deco import singleton
 
 
 @singleton
