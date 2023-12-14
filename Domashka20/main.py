@@ -1,5 +1,5 @@
 from constants import ROOT_PATH
-from sqlite_cm import Sqlite
+from utilities.sqlite_cm import Sqlite
 
 
 def create_table():
