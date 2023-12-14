@@ -1,4 +1,4 @@
-from db.sqlite_pack._base_db_connector import BaseDbConnection
+from _base_db_connector import BaseDbConnection
 
 
 class CosmeticsRepo:

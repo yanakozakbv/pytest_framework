@@ -1,5 +1,5 @@
-from pytest_framework.constants import ROOT_PATH
-from pytest_framework.utilities.sqlite_cm import Sqlite
+from constants import ROOT_PATH
+from sqlite_cm import Sqlite
 
 
 def create_table():

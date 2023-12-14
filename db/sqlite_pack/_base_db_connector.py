@@ -1,5 +1,5 @@
 import sqlite3
-from pytest_framework.utilities.deco import singleton
+from deco import singleton
 
 
 @singleton
